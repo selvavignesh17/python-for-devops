@@ -1,7 +1,7 @@
 
 # Python for DevOps 🚀
 
-A 42-day structured Python learning and
+A 90 Days structured Python learning and
 problem-solving journey focused on DevOps
 engineering and cloud automation.
 
@@ -12,28 +12,7 @@ engineering and cloud automation.
 - Automate real-world DevOps activities.
 - Work with AWS and Azure SDKs.
 - Build practical infrastructure automation tools.
-
-## Learning Roadmap
-
-| Week | Focus |
-|------|-------|
-| 01 | Python Fundamentals |
-| 02 | Python Scripting |
-| 03 | API & JSON Automation |
-| 04 | AWS & Azure Automation |
-| 05 | DSA & Problem Solving |
-| 06 | DevOps Projects |
-
-## Daily Progress
-
-- [ ] Day 01 - Python Fundamentals
-- [ ] Day 02 - Strings
-- [ ] Day 03 - Lists
-- [ ] Day 04 - Tuples and Sets
-- [ ] Day 05 - Dictionaries
-- [ ] Day 06 - Conditions and Loops
-- [ ] Day 07 - Functions
-
+ 
 ## Projects
 
 1. Server Health Monitoring
