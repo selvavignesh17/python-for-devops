@@ -1,0 +1,1 @@
+ERROR: OOM Killed process 1234 (python) total-vm:2048000kB, anon-rss:1024000kB, file-rss:0kB, shmem-rss:0kB
